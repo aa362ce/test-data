@@ -1,154 +1,155 @@
 {
     "customers":
-        [[{
+        [{
             "id": 1,
             "first_name": "Tess",
             "last_name": "Planque",
             "email": "tplanque0@geocities.com",
             "gender": "Female"
-          }, {
+            }, {
             "id": 2,
             "first_name": "Mendel",
             "last_name": "Langfitt",
             "email": "mlangfitt1@blogtalkradio.com",
             "gender": "Male"
-          }, {
+            }, {
             "id": 3,
             "first_name": "Kassia",
             "last_name": "Clyma",
             "email": "kclyma2@google.ru",
             "gender": "Female"
-          }, {
+            }, {
             "id": 4,
             "first_name": "Coriss",
             "last_name": "Trappe",
             "email": "ctrappe3@mapy.cz",
             "gender": "Female"
-          }, {
+            }, {
             "id": 5,
             "first_name": "Erl",
             "last_name": "Cubley",
             "email": "ecubley4@ovh.net",
             "gender": "Male"
-          }, {
+            }, {
             "id": 6,
             "first_name": "Saidee",
             "last_name": "Earney",
             "email": "searney5@cargocollective.com",
             "gender": "Female"
-          }, {
+            }, {
             "id": 7,
             "first_name": "Windham",
             "last_name": "O'Dyvoie",
             "email": "wodyvoie6@newyorker.com",
             "gender": "Male"
-          }, {
+            }, {
             "id": 8,
             "first_name": "Maude",
             "last_name": "Shoveller",
             "email": "mshoveller7@biglobe.ne.jp",
             "gender": "Female"
-          }, {
+            }, {
             "id": 9,
             "first_name": "Claudie",
             "last_name": "Shinn",
             "email": "cshinn8@360.cn",
             "gender": "Female"
-          }, {
+            }, {
             "id": 10,
             "first_name": "Nathanil",
             "last_name": "Gietz",
             "email": "ngietz9@java.com",
             "gender": "Male"
-          }, {
+            }, {
             "id": 11,
             "first_name": "Eddy",
             "last_name": "Adamiec",
             "email": "eadamieca@ibm.com",
             "gender": "Male"
-          }, {
+            }, {
             "id": 12,
             "first_name": "Augie",
             "last_name": "Athy",
             "email": "aathyb@elegantthemes.com",
             "gender": "Male"
-          }, {
+            }, {
             "id": 13,
             "first_name": "Osbert",
             "last_name": "Lorriman",
             "email": "olorrimanc@360.cn",
             "gender": "Male"
-          }, {
+            }, {
             "id": 14,
             "first_name": "Guenevere",
             "last_name": "Kneal",
             "email": "gkneald@amazon.com",
             "gender": "Female"
-          }, {
+            }, {
             "id": 15,
             "first_name": "Charlton",
             "last_name": "Saffill",
             "email": "csaffille@delicious.com",
             "gender": "Male"
-          }, {
+            }, {
             "id": 16,
             "first_name": "Julienne",
             "last_name": "Aberchirder",
             "email": "jaberchirderf@comsenz.com",
             "gender": "Female"
-          }, {
+            }, {
             "id": 17,
             "first_name": "Ramsay",
             "last_name": "Metzing",
             "email": "rmetzingg@salon.com",
             "gender": "Male"
-          }, {
+            }, {
             "id": 18,
             "first_name": "Lauryn",
             "last_name": "Mathews",
             "email": "lmathewsh@accuweather.com",
             "gender": "Female"
-          }, {
+            }, {
             "id": 19,
             "first_name": "Rasia",
             "last_name": "Wormleighton",
             "email": "rwormleightoni@woothemes.com",
             "gender": "Female"
-          }, {
+            }, {
             "id": 20,
             "first_name": "Bernie",
             "last_name": "Channon",
             "email": "bchannonj@flickr.com",
             "gender": "Female"
-          }, {
+            }, {
             "id": 21,
             "first_name": "Dollie",
             "last_name": "Ritzman",
             "email": "dritzmank@yahoo.co.jp",
             "gender": "Female"
-          }, {
+            }, {
             "id": 22,
             "first_name": "Ara",
             "last_name": "Charnley",
             "email": "acharnleyl@e-recht24.de",
             "gender": "Female"
-          }, {
+            }, {
             "id": 23,
             "first_name": "Carena",
             "last_name": "MacRonald",
             "email": "cmacronaldm@opensource.org",
             "gender": "Female"
-          }, {
+            }, {
             "id": 24,
             "first_name": "Marquita",
             "last_name": "Roobottom",
             "email": "mroobottomn@exblog.jp",
             "gender": "Female"
-          }, {
+            }, {
             "id": 25,
             "first_name": "Natalie",
             "last_name": "Juett",
             "email": "njuetto@g.co",
             "gender": "Female"
-          }]
-          }
+            }
+        ]
+    }
